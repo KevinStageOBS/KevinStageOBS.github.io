@@ -42278,10 +42278,10 @@ t.pr()},
 pr:function(){var t=0,s=P.ad(u.z),r=this,q,p,o
 var $async$pr=P.a8(function(a,b){if(a===1)return P.aa(b,s)
 while(true)switch(t){case 0:o=document.createElement("iframe")
-o.src="https://kevinstageobs.github.io/projects/flutter_web8/index.html"
+o.src="https://kevinstageobs.github.io/projects/flutter_web8/"
 q=o.style
 q.border="none"
-p="iframeElementhttps://kevinstageobs.github.io/projects/flutter_web8/index.html"+J.c0(r.e)
+p="iframeElementhttps://kevinstageobs.github.io/projects/flutter_web8/"+J.c0(r.e)
 $.u_().S0(p,new A.OX(o))
 r.aJ(new A.OY(r,p))
 return P.ab(null,s)}})
